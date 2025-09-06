@@ -1,7 +1,6 @@
-[Master_Sheet.xlsx](https://github.com/user-attachments/files/22186232/Master_Sheet.xlsx)
+[Master_Sheet.xlsx](https://github.com/user-attachments/files/22186325/Master_Sheet.xlsx)
 
 # Data Folder
-
 This folder contains the dataset used for the Bellabeat case study analysis.
 
 - **[Master_Sheet.xlsx]** → Cleaned and combined dataset prepared in Google Sheets.
