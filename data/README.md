@@ -4,6 +4,6 @@
 
 This folder contains the dataset used for the Bellabeat case study analysis.
 
-- **cleaned_fitbit_data.csv** → Cleaned and combined dataset prepared in Google Sheets.
+- **[Master_Sheet.xlsx]** → Cleaned and combined dataset prepared in Google Sheets.
 
 Note: The raw Fitbit dataset was obtained from Kaggle (Fitbit Fitness Tracker Data, CC0: Public Domain)
