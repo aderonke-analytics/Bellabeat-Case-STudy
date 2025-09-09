@@ -12,8 +12,14 @@ This folder contains the analysis completed in Google Sheets.
 
 - [**pivot_table_average_step_taken_weekday_vs_weekend**](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/86bd0854bd016a37680c3bd34f0aaeb3aec06a52/sheet_analysis/Pivot%20Table%20weekday%20steps%20vs%20weekend%20-%20pivot%20table%20weekend%20(1).csv)
 
--    → Exported charts and pivot tables created during analysis.
-- **key_findings.md** → Summary of insights discovered in Google Sheets.
+  → Exported pivot tables created during analysis.
+<img width="600" height="371" alt="Average Sleep Hours per User" src="https://github.com/user-attachments/assets/c1dd7e47-9b09-4981-8f3f-bafa4c557ae3" />
+<img width="600" height="371" alt="SUM of VeryActiveMinutes, SUM of FairlyActiveMinutes and SUM of LightlyActiveMinutes" src="https://github.com/user-attachments/assets/7c480e0f-8c57-4e4d-ae8c-480df54b2d9d" />
+<img width="585" height="362" alt="TotalSteps" src="https://github.com/user-attachments/assets/07b47c86-befa-4362-9b72-f79977c13dcf" />
+<img width="600" height="371" alt="Average Steps by Day of the Week" src="https://github.com/user-attachments/assets/122d30b7-fc70-49af-8377-f61ce6266d9a" />
+
+  
+- **README.md** → Summary of insights discovered in Google Sheets.
 
 ### Key Steps
 1. Combined daily activity, sleep, and weight logs into a single dataset.
