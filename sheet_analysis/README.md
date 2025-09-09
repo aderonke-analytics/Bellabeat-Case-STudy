@@ -6,11 +6,11 @@ This folder contains the analysis completed in Google Sheets.
   
 - [**pivot_table_active_minutes**](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/ed27d9f91c4cbe6cca5f712a2e05a7064736f99d/sheet_analysis/Pivot_table_active_minutes.xlsx)
   
--[pivot_table_average_sleep_hour](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/d2cd5e0845426102c4e5bb987d75a16d86e82e54/sheet_analysis/Pivot%20Table%20%20-%20Pivot%20Table%20avg%20sleep%20hour.csv)
+-[**pivot_table_average_sleep_hour**](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/d2cd5e0845426102c4e5bb987d75a16d86e82e54/sheet_analysis/Pivot%20Table%20%20-%20Pivot%20Table%20avg%20sleep%20hour.csv)
 
--pivot_table_average_step_taken
+-[**pivot_table_average_step_taken**](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/6bf1cc0127686ed8241a8a683cda62cdff3aa1fa/sheet_analysis/Pivot%20Table%20avg%20step%20taken%20-%20Pivot%20Table%20avg%20step%20taken.csv)
 
-[pivot_table_average_step_taken_weekday_vs_weekend](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/86bd0854bd016a37680c3bd34f0aaeb3aec06a52/sheet_analysis/Pivot%20Table%20weekday%20steps%20vs%20weekend%20-%20pivot%20table%20weekend%20(1).csv)
+[**pivot_table_average_step_taken_weekday_vs_weekend**](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/86bd0854bd016a37680c3bd34f0aaeb3aec06a52/sheet_analysis/Pivot%20Table%20weekday%20steps%20vs%20weekend%20-%20pivot%20table%20weekend%20(1).csv)
 
 -    → Exported charts and pivot tables created during analysis.
 - **key_findings.md** → Summary of insights discovered in Google Sheets.
