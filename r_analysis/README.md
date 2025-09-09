@@ -2,7 +2,7 @@
 
 This folder contains the R code and outputs used for the Bellabeat case study.
 
-## Files to include
+## Files Included
 - `fitbit_analysis.R` — main R script (data cleaning, analysis, visualizations).
 - `outputs/` — folder containing exported plots (PNG) and any HTML/CSV outputs.
 - `requirements.R` — (optional) short script listing packages to install.
