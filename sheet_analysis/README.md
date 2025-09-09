@@ -5,7 +5,9 @@ This folder contains the analysis completed in Google Sheets.
 - The cleaned dataset used in this analysis is stored in the [data/clean_master_sheet - master.csv](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/6c4bcfc9af3b6ab3da4298a6f281a9bff02f83b7/data/clean_master_sheet%20-%20master.csv)
   
 - [**pivot_table_active_minutes**](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/ed27d9f91c4cbe6cca5f712a2e05a7064736f99d/sheet_analysis/Pivot_table_active_minutes.xlsx)
--pivot_table_average_sleep_hour
+  
+-[pivot_table_average_sleep_hour](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/d2cd5e0845426102c4e5bb987d75a16d86e82e54/sheet_analysis/Pivot%20Table%20%20-%20Pivot%20Table%20avg%20sleep%20hour.csv)
+
 -pivot_table_average_step_taken
 pivot_table_average_step_taken_weekday_vs_weekend
 -    → Exported charts and pivot tables created during analysis.
