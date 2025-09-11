@@ -16,7 +16,7 @@ The analysis explores trends in Fitbit fitness tracker data to provide insights 
 1. **Data Collection & Cleaning**
    - Combined daily activity, sleep, and weight logs into one dataset.
    - Cleaned missing values and removed duplicates.  
-   - [View cleaned dataset](./data/clean_master_sheet%20-%20master.csv)
+   - [View cleaned dataset](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/blob/6c4bcfc9af3b6ab3da4298a6f281a9bff02f83b7/data/clean_master_sheet%20-%20master.csv)
 
 2. **Google Sheets Analysis**
    - Pivot tables and charts for steps, sleep, and activity levels.  
