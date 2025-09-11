@@ -6,6 +6,7 @@ The analysis explores trends in Fitbit fitness tracker data to provide insights 
 ---
 
 ## 📂 Repository Structure
+Open the subfolders for instructions on running analyses:
 - **/data** → cleaned datasets  
 - **/sheet_analysis** → Google Sheets analysis (pivot tables, charts, insights)  
 - **/R Analysis** → R scripts, outputs, and visualizations  
@@ -35,7 +36,19 @@ The analysis explores trends in Fitbit fitness tracker data to provide insights 
 
 ---
 
-## 🚀 How to Reproduce
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aderonke-analytics/Bellabeat-Case-STudy.git
+## 🛠️ Tools Used
+
+- Google Sheets  
+- R (`tidyverse`, `lubridate`, `janitor`, `ggplot2`, `skimr`)  
+- GitHub for version control and portfolio presentation  
+
+---
+
+## 👩🏽‍💻 About
+
+This project was completed as part of the **Google Data Analytics Certificate** to demonstrate skills in:
+
+- Data cleaning  
+- Data analysis (Google Sheets, R)  
+- Data visualization  
+- Business insights and reporting  
