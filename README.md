@@ -24,8 +24,7 @@ The analysis explores trends in Fitbit fitness tracker data to provide insights 
 
 3. **R Analysis**
    - Data exploration and visualization using R.  
-   - [Explore R Analysis](./R%20Analysis)
-
+   - [View R Analysis]https://github.com/aderonke-analytics/Bellabeat-Case-STudy/tree/62aa478b46f7831c5b920ac339fd84915072782b/r_analysis
 ---
 
 ## 📊 Sample Insights
