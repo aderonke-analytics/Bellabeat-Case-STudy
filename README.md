@@ -36,6 +36,25 @@ Open the subfolders for instructions on running analyses:
 
 ---
 
+## 📌 Conclusion  
+
+The analysis of Fitbit user data revealed that while many users engage in regular activity, there are noticeable gaps in sleep consistency and intensity of exercise. These insights provide opportunities for Bellabeat to design features that encourage healthier habits, improve user engagement, and align with the brand’s mission of empowering women to take control of their wellness. 
+
+---
+
+## 🎯 Recommendations  
+
+- **Encourage more consistent physical activity**  
+  Bellabeat can promote features like daily reminders and weekend challenges.  
+
+- **Promote healthy sleep habits**  
+  Include sleep coaching tips and alerts for irregular sleep patterns.  
+
+- **Motivate higher-intensity activity**  
+  Gamify “very active minutes” through rewards or streak features.  
+
+---
+
 ## 🛠️ Tools Used
 
 - Google Sheets  
