@@ -20,7 +20,7 @@ The analysis explores trends in Fitbit fitness tracker data to provide insights 
 
 2. **Google Sheets Analysis**
    - Pivot tables and charts for steps, sleep, and activity levels.  
-   - [Explore Sheet Analysis](./sheet_analysis)
+   - [View Sheet Analysis](https://github.com/aderonke-analytics/Bellabeat-Case-STudy/tree/c1bcd9bdc48243e0565c3bdc8b4b529d76986a1f/sheet_analysis)
 
 3. **R Analysis**
    - Data exploration and visualization using R.  
